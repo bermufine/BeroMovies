@@ -9,7 +9,7 @@
           "sourceNovela": [
             "http://fl5.moveonjoy.com/HBO/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzc1NTBf/HBO.jpg",
           "titleNovela": "HBO TV"
         },
@@ -18,7 +18,7 @@
           "sourceNovela": [
             "http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzc3MTRf/hboComedy.jpg",
           "titleNovela": "HBO COMEDY"
         },
@@ -27,16 +27,16 @@
           "sourceNovela": [
             "http://fl5.moveonjoy.com/HBO_2/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzc2MzRf/HBO2TV.png",
           "titleNovela": "HBO 2"
         },
         {
-          "descriptionNovela": "Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "MyTIME MOVIES TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
           "sourceNovela": [
             "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg",
           "titleNovela": "MYTIME MOVIES"
         },
@@ -45,7 +45,7 @@
           "sourceNovela": [
             "http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzc4MTRf/hbofamily.png",
           "titleNovela": "HBO FAMILY"
         },
@@ -54,7 +54,7 @@
           "sourceNovela": [
             "https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/M18yOTE2NzM5MjVf/cinmax.jpeg",
           "titleNovela": "CINE MAX"
         },
@@ -63,7 +63,7 @@
           "sourceNovela": [
             "http://fl2.moveonjoy.com/LIFETIME/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzc4OTZf/lifetime.png",
           "titleNovela": "LIFETIME"
         },
@@ -72,7 +72,7 @@
           "sourceNovela": [
             "http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzg4NTRf/cineEast.jpg",
           "titleNovela": "CINE-EAST"
         },
@@ -81,7 +81,7 @@
           "sourceNovela": [
             "http://fl2.moveonjoy.com/SHOWTIME/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzgzOTRf/showtimemaximum.jpg",
           "titleNovela": "SHOWTIME TV"
         },
@@ -99,7 +99,7 @@
           "sourceNovela": [
             "http://fl1.moveonjoy.com/ABC_EAST/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzg5OTJf/ABCTV.jpg",
           "titleNovela": "ABC TV"
         },
@@ -108,7 +108,7 @@
           "sourceNovela": [
             "https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/M18yODY5NTM5MTVf/fiction.jpg",
           "titleNovela": "FILM FICTION"
         },
@@ -117,7 +117,7 @@
           "sourceNovela": [
             "http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzgzOTdf/showtime2.png",
           "titleNovela": "SHOWTIME 2"
         },
@@ -126,7 +126,7 @@
           "sourceNovela": [
             "http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzg0MDJf/showtimeExtreme.png",
           "titleNovela": "SHOWTIME EXTREME"
         },
@@ -135,7 +135,7 @@
           "sourceNovela": [
             "http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzg0MDVf/showtimenext.png",
           "titleNovela": "SHOWTIME NEXT"
         },
@@ -144,7 +144,7 @@
           "sourceNovela": [
             "http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzg0Mzdf/sonymovies.jpg",
           "titleNovela": "SONY MOVIES"
         },
@@ -207,7 +207,7 @@
           "sourceNovela": [
             "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/M18yOTE2NzM5MjRf/cinemaxs.jpeg",
           "titleNovela": "CINE MAX"
         },
@@ -216,7 +216,7 @@
           "sourceNovela": [
             "https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/M18yNzM5OTUzNDdf/atwelve.jpg",
           "titleNovela": "A 12 MOVIES"
         },
@@ -225,7 +225,7 @@
           "sourceNovela": [
             "https://video1.getstreamhosting.com:1936/8560/8560/chunklist.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/M18yOTE2NzM5MzBf/radiotelepuissance.png",
           "titleNovela": "TELE PUISSANCE"
         },
@@ -234,7 +234,7 @@
           "sourceNovela": [
             "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/M18yODEwMDA0MzZf/superscreen.jpg",
           "titleNovela": "SUPERSCREEN TV"
         },
@@ -243,7 +243,7 @@
           "sourceNovela": [
             "http://fl2.moveonjoy.com/EPIX/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzkxMjFf/EPIX.jpg",
           "titleNovela": "EPIX TV"
         }
