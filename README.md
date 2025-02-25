@@ -102,11 +102,7 @@
           "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzg5OTJf/ABCTV.jpg",
           "titleNovela": "ABC TV"
-        }
-      ]
-    }
-  ]
-} 
+        },
         {
           "descriptionNovela": "Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
           "sourceNovela": [
@@ -151,7 +147,12 @@
           "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzg0Mzdf/sonymovies.jpg",
           "titleNovela": "SONY MOVIES"
-        },
+        }
+      ]
+    }
+  ]
+}  
+
         {
           "descriptionNovela": "STARZ WESTERNS est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
