@@ -147,18 +147,13 @@
           "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzg0Mzdf/sonymovies.jpg",
           "titleNovela": "SONY MOVIES"
-        }
-      ]
-    }
-  ]
-}  
-
+        },
         {
           "descriptionNovela": "STARZ WESTERNS est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
             "http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8"
           ],
-          "subtitleNovela": All Channels",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzg0NjNf/starzWesterns.jpg",
           "titleNovela": "STARZ WESTERNS"
         },
@@ -203,7 +198,7 @@
           "sourceNovela": [
             "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/2000.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/M18yODY5NTM4MzZf/wildside.png",
           "titleNovela": "WILDSIDE TV"
         },
