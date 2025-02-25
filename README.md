@@ -5,31 +5,31 @@
       "name": "Movies",
       "videos": [
         {
-          "descriptionNovela": "Film A tion est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "HBO TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
-            "http://185.59.221.131:8081/live/actionhd/playlist.m3u8"
+            "http://fl5.moveonjoy.com/HBO/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg",
-          "titleNovela": "FILM ACTION"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzc1NTBf/HBO.jpg",
+          "titleNovela": "HBO TV"
         },
         {
-          "descriptionNovela": "Disney TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "HBO COMEDY TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
-            "https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"
+            "http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yODMzMDg5NzRf/movieuniversal.jpg",
-          "titleNovela": "SUPER FILM"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzc3MTRf/hboComedy.jpg",
+          "titleNovela": "HBO COMEDY"
         },
         {
-          "descriptionNovela": "Cine Motion est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "HBO 2 est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
-            "http://185.59.221.131:8081/live/cinemotion/playlist.m3u8"
+            "http://fl5.moveonjoy.com/HBO_2/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-          "titleNovela": "CINE MOTION"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzc2MzRf/HBO2TV.png",
+          "titleNovela": "HBO 2"
         },
         {
           "descriptionNovela": "Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
@@ -41,13 +41,13 @@
           "titleNovela": "MYTIME MOVIES"
         },
         {
-          "descriptionNovela": "Rakuten Action est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "HBO FAMILY est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
-            "https://rakuten-actionmovies-7-fr.plex.wurl.tv/2000.m3u8"
+            "http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yODY5NTM4MzNf/rakuaction.jpg",
-          "titleNovela": "RAKUTEN ACTION"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzc4MTRf/hbofamily.png",
+          "titleNovela": "HBO FAMILY"
         },
         {
           "descriptionNovela": "Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
@@ -59,31 +59,31 @@
           "titleNovela": "CINE MAX"
         },
         {
-          "descriptionNovela": "Cine Premier est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "LIFETIME est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
-            "http://185.59.221.131:8081/live/cinepremier/playlist.m3u8"
+            "http://fl2.moveonjoy.com/LIFETIME/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-          "titleNovela": "CINE PREMIER"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzc4OTZf/lifetime.png",
+          "titleNovela": "LIFETIME"
         },
         {
-          "descriptionNovela": "Rakuten Drama est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "CINE-EAST est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
-            "https://rakuten-romance-7-fr.plex.wurl.tv/2000.m3u8"
+            "http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yODY5NTM4MzJf/rakudrama.jpg",
-          "titleNovela": "FILM DRAMA"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzg4NTRf/cineEast.jpg",
+          "titleNovela": "CINE-EAST"
         },
         {
-          "descriptionNovela": "Cine Classic est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "SHOWTIME TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
-            "http://185.59.221.131:8081/live/cineclassic/playlist.m3u8"
+            "http://fl2.moveonjoy.com/SHOWTIME/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-          "titleNovela": "CINE CLASSIC"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzgzOTRf/showtimemaximum.jpg",
+          "titleNovela": "SHOWTIME TV"
         },
         {
           "descriptionNovela": "PLEX TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
@@ -93,6 +93,15 @@
           "subtitleNovela": "By Channel",
           "thumbNovela": "https://od.lk/s/M18yODA5OTk4NTRf/plex.png",
           "titleNovela": "PLEX TV"
+        },
+         {
+          "descriptionNovela": "ABC TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais en Anglais.",
+          "sourceNovela": [
+            "http://fl1.moveonjoy.com/ABC_EAST/index.m3u8"
+          ],
+          "subtitleNovela": "By Channel",
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzg5OTJf/ABCTV.jpg",
+          "titleNovela": "ABC TV"
         },
         {
           "descriptionNovela": "Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
@@ -104,85 +113,85 @@
           "titleNovela": "FILM FICTION"
         },
         {
-          "descriptionNovela": "Cine Frisson est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "SHOWTIME 2 est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
-            "http://185.59.221.131:8081/live/cinefrisson/playlist.m3u8"
+            "http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-          "titleNovela": "CINE FRISSON"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzgzOTdf/showtime2.png",
+          "titleNovela": "SHOWTIME 2"
         },
         {
-          "descriptionNovela": "Cine+ Polar est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "SHOWTIME EXTREME est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
-            "http://185.59.221.131:8081/live/cinepolar/playlist.m3u8"
+            "http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-          "titleNovela": "CINE+ POLAR"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzg0MDJf/showtimeExtreme.png",
+          "titleNovela": "SHOWTIME EXTREME"
         },
         {
-          "descriptionNovela": "Cine Max est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "SHOWTIME NEXT est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
-            "http://185.59.221.131:8081/live/cinemax/playlist.m3u8"
+            "http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yOTE2NzM5MjVf/cinmax.jpeg",
-          "titleNovela": "CINE MAX"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzg0MDVf/showtimenext.png",
+          "titleNovela": "SHOWTIME NEXT"
         },
         {
-          "descriptionNovela": "FOX MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "SONY MOVIES est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
-            "http://185.59.221.131:8081/live/fx/playlist.m3u8"
+            "http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-          "titleNovela": "FOX MOVIE"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzg0Mzdf/sonymovies.jpg",
+          "titleNovela": "SONY MOVIES"
         },
         {
-          "descriptionNovela": "TMC MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "STARZ WESTERNS est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
-            "http://185.59.221.131:8081/live/tmc/playlist.m3u8"
+            "http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg",
-          "titleNovela": "TMC MOVIE"
+          "subtitleNovela": All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzg0NjNf/starzWesterns.jpg",
+          "titleNovela": "STARZ WESTERNS"
         },
         {
-          "descriptionNovela": "Rakuten MOVIE est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "MOREMAX est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
-            "https://rakuten-actionmovies-7-fr.samsung.wurl.tv/2000.m3u8"
+            "http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yODY5NTM4MzVf/rakumovie.jpg",
-          "titleNovela": "RAKUTEN MOVIE"
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzg3MTVf/moremax.png",
+          "titleNovela": "MOREMAX"
         },
         {
-          "descriptionNovela": "Rakuten TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "CINE-WEST TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
-            "https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8"
+            "http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yODYzNTg5Mjhf/rakuten.png",
-          "titleNovela": "FILM PLUS"
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzg3NTlf/cinewest.png",
+          "titleNovela": "CINE-WEST"
         },
         {
           "descriptionNovela": "Gospel Movies TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres",
           "sourceNovela": [
             "https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/M18yODYzNjU3MzNf/gospelmovie.jpeg",
           "titleNovela": "GOSPEL MOVIES"
         },
         {
-          "descriptionNovela": "Movies Box TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "AMC NETWORK TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
-            "https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"
+            "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yODM1NzY1NjBf/moviebox.png",
-          "titleNovela": "MOVIES BOX"
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzg4ODFf/amcnetwork.jpg",
+          "titleNovela": "AMC NETWORK"
         },
         {
           "descriptionNovela": "Wildside TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
@@ -230,13 +239,13 @@
           "titleNovela": "SUPERSCREEN TV"
         },
         {
-          "descriptionNovela": "Movie Sphere TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
+          "descriptionNovela": "EPIX TV TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
-            "https://moviesphere-plex.amagi.tv/playlist.m3u8"
+            "http://fl2.moveonjoy.com/EPIX/index.m3u8"
           ],
           "subtitleNovela": "By Channel",
-          "thumbNovela": "https://od.lk/s/M18yODY5NTM5MDdf/moviesphere.jpg",
-          "titleNovela": "MOVIE SPHERE"
+          "thumbNovela": "https://od.lk/s/NDZfNzgwNzkxMjFf/EPIX.jpg",
+          "titleNovela": "EPIX TV"
         }
       ]
     }
