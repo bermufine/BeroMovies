@@ -66,7 +66,12 @@
           "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzc4OTZf/lifetime.png",
           "titleNovela": "LIFETIME"
-        },
+        }
+      ]
+    }
+  ]
+}
+
         {
           "descriptionNovela": "CINE-EAST est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
