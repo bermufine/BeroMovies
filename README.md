@@ -4,6 +4,60 @@
     {
       "name": "Movies",
       "videos": [
+      {
+          "descriptionNovela": "Films Series TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODI3ODRf/rakuenSerie.jpeg",
+          "titleNovela": "FILMS SERIES"
+        },
+       {
+          "descriptionNovela": "Films Action TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODIyMTNf/actionRakuten.jpeg",
+          "titleNovela": "FILMS ACTION"
+        },
+       {
+          "descriptionNovela": "SCREAM-IN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODIxODlf/screamIn.jpeg",
+          "titleNovela": "SCREAM-IN TV"
+        },
+        {
+          "descriptionNovela": "EMOTION'L TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODIxOTRf/emotionL.png",
+          "titleNovela": "EMOTION'L TV"
+        },
+       {
+          "descriptionNovela": "EMOTION'L TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODIyMDJf/cinenanar.jpeg",
+          "titleNovela": "CINE NANAR TV"
+        },
+       {
+          "descriptionNovela": "Films Comedie TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODIyNTdf/comedieRakuten.jpeg",
+          "titleNovela": "FILMS COMEDIE"
+        }, 
         {
           "descriptionNovela": "HBO TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
@@ -49,6 +103,15 @@
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzc4MTRf/hbofamily.png",
           "titleNovela": "HBO FAMILY"
         },
+         {
+          "descriptionNovela": "Rakuten TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "https://499fde1f527c4ce9af8917b3ee7a217a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_Local/playlist.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODI1OTdf/rakuten.png",
+          "titleNovela": "RAKUTEN TV"
+        },
         {
           "descriptionNovela": "Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
           "sourceNovela": [
@@ -59,6 +122,15 @@
           "titleNovela": "CINE MAX"
         },
         {
+          "descriptionNovela": "Films Drama TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODIyNzVf/dramafilms.jpeg",
+          "titleNovela": "FILMS DRAMA"
+        }, 
+        {
           "descriptionNovela": "LIFETIME est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
             "http://fl2.moveonjoy.com/LIFETIME/index.m3u8"
@@ -66,6 +138,15 @@
           "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzc4OTZf/lifetime.png",
           "titleNovela": "LIFETIME"
+        },
+         {
+          "descriptionNovela": "Films Familles TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODI1NzJf/familleRakuten.jpeg",
+          "titleNovela": "RAKUTEN FAMILLES"
         },
         {
           "descriptionNovela": "CINE-EAST est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
@@ -77,6 +158,15 @@
           "titleNovela": "CINE-EAST"
         },
         {
+          "descriptionNovela": "Rakuten Romance TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODI2NjVf/RakutenRomance.jpeg",
+          "titleNovela": "RAKUTEN ROMANCE"
+        },
+        {
           "descriptionNovela": "SHOWTIME TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
           "sourceNovela": [
             "http://fl2.moveonjoy.com/SHOWTIME/index.m3u8"
@@ -84,6 +174,15 @@
           "subtitleNovela": "All Channels",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzgzOTRf/showtimemaximum.jpg",
           "titleNovela": "SHOWTIME TV"
+        },
+        {
+          "descriptionNovela": "Top Films TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais.",
+          "sourceNovela": [
+            "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODE0ODI3MThf/topFilms.jpeg",
+          "titleNovela": "TOP FILMS"
         },
         {
           "descriptionNovela": "PLEX TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres.",
