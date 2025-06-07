@@ -9,7 +9,7 @@
           "sourceNovela": [
             "http://145.239.5.177/332/index.m3u8"
           ],
-          "subtitleNovela": "By Channel",
+          "subtitleNovela": "All Channel",
           "thumbNovela": "https://od.lk/s/NzNfNjg5MzA2ODRf/abOne.jpg",
           "titleNovela": "AB1 TV"
         },
@@ -23,6 +23,24 @@
           "titleNovela": "FILMS SERIES"
         },
        {
+          "descriptionNovela": "TV Breizh est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "http://145.239.5.177/318/index.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODIxNDQwODJf/breizh.png",
+          "titleNovela": "TV BREIZH"
+        },
+         {
+          "descriptionNovela": "Film TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "http://145.239.5.177/321/index.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODIxNDQxNTFf/filmtv.png",
+          "titleNovela": "FILM TV"
+        }, 
+       {
           "descriptionNovela": "Films Action TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
             "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
@@ -31,6 +49,15 @@
           "thumbNovela": "https://od.lk/s/NDZfODE0ODIyMTNf/actionRakuten.jpeg",
           "titleNovela": "FILMS ACTION"
         },
+        {
+          "descriptionNovela": "W9 TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "http://145.239.5.177/331/index.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODIxNDQwOTBf/W9TV.jpeg",
+          "titleNovela": "W9 TV"
+        },  
        {
           "descriptionNovela": "SCREAM-IN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
@@ -49,8 +76,17 @@
           "thumbNovela": "https://od.lk/s/NDZfODE0ODIxOTRf/emotionL.png",
           "titleNovela": "EMOTION'L TV"
         },
+         {
+          "descriptionNovela": "Film 2 TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "sourceNovela": [
+            "http://145.239.5.177/319/index.m3u8"
+          ],
+          "subtitleNovela": "All Channels",
+          "thumbNovela": "https://od.lk/s/NDZfODIxNDQxNTFf/filmtv.png",
+          "titleNovela": "FILM 2 TV"
+        },
        {
-          "descriptionNovela": "EMOTION'L TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
+          "descriptionNovela": "CINEMAR TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
             "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8"
           ],
