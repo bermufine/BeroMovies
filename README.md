@@ -433,6 +433,16 @@
           "numberNovela": "713",
           "thumbNovela": "https://od.lk/s/NDZfNzgwNzc2MzRf/HBO2TV.png",
           "titleNovela": "HBO 2"
+        },
+        {
+          "descriptionNovela": "AB1 TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians",
+          "sourceNovela": [
+            "http://145.239.5.177/332/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "700",
+          "thumbNovela": "https://od.lk/s/NzNfNjg5MzA2ODRf/abOne.jpg",
+          "titleNovela": "AB1 TV"
         }
       ]
     }
