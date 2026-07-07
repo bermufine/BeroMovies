@@ -5,15 +5,15 @@
       "name": "Movies",
       "videos": [
        {
-          "descriptionNovela": "AB1 TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians",
+          "descriptionNovela": "3D CINEMA, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
           "sourceNovela": [
-            "http://145.239.5.177/332/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/3D-CINEMA/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "numberNovela": "700",
-          "thumbNovela": "https://od.lk/s/NzNfNjg5MzA2ODRf/abOne.jpg",
-          "titleNovela": "AB1 TV"
-        },
+          "numberNovela": "171",
+          "thumbNovela": "https://od.lk/s/NDZfOTMyNTcxNTVf/3Dcinema.png",
+          "titleNovela": "3D-CINEMA"
+     },
       {
           "descriptionNovela": "Films Series TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
           "sourceNovela": [
@@ -93,6 +93,16 @@
           "numberNovela": "708",
           "thumbNovela": "https://od.lk/s/NDZfODIxNDQxNTFf/filmtv.png",
           "titleNovela": "FILM 2 TV"
+        },
+        {
+          "descriptionNovela": "AB1 TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians",
+          "sourceNovela": [
+            "http://145.239.5.177/332/index.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "700",
+          "thumbNovela": "https://od.lk/s/NzNfNjg5MzA2ODRf/abOne.jpg",
+          "titleNovela": "AB1 TV"
         },
        {
           "descriptionNovela": "CINEMAR TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
@@ -435,15 +445,15 @@
           "titleNovela": "HBO 2"
         },
         {
-          "descriptionNovela": "AB1 TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians",
+          "descriptionNovela": "3D CINEMA, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
           "sourceNovela": [
-            "http://145.239.5.177/332/index.m3u8"
+            "http://ip-pro.berosat.live/hls/live/3D-CINEMA/index.m3u8"
           ],
           "subtitleNovela": "All Channel",
-          "numberNovela": "700",
-          "thumbNovela": "https://od.lk/s/NzNfNjg5MzA2ODRf/abOne.jpg",
-          "titleNovela": "AB1 TV"
-        }
+          "numberNovela": "171",
+          "thumbNovela": "https://od.lk/s/NDZfOTMyNTcxNTVf/3Dcinema.png",
+          "titleNovela": "3D-CINEMA"
+     }
       ]
     }
   ]
