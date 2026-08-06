@@ -5,14 +5,24 @@
       "name": "Movies",
       "videos": [
        {
-          "descriptionNovela": "3D CINEMA, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
+          "descriptionNovela": "Star Movies, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
           "sourceNovela": [
-            "http://ip-pro.berosat.live/hls/live/3D-CINEMA/index.m3u8"
+            "http://znty.dyndns.org:5010/hls/foxm.m3u8"
           ],
           "subtitleNovela": "All Channel",
           "numberNovela": "171",
-          "thumbNovela": "https://od.lk/s/NDZfOTMyNTcxNTVf/3Dcinema.png",
-          "titleNovela": "3D-CINEMA"
+          "thumbNovela": "https://od.lk/thumb/M18zMzI3OTI3NTBf",
+          "titleNovela": "STAR MOVIES"
+     },
+     {
+          "descriptionNovela": "Star Comedy, la chaîne de toutes les émotions émettant à Kinshasa en République Démocratique du Congo",
+          "sourceNovela": [
+            "http://znty.dyndns.org:5010/hls/foxcomedy.m3u8"
+          ],
+          "subtitleNovela": "All Channel",
+          "numberNovela": "171",
+          "thumbNovela": "https://od.lk/thumb/M18zMzI3OTI3NDlf",
+          "titleNovela": "STAR COMEDY"
      },
       {
           "descriptionNovela": "Films Series TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres en Anglais",
